@@ -1,4 +1,4 @@
-# “T5” Zeham Management Technologies BootCamp Repository
+# Zeham Management Technologies “T5” BootCamp Repository
 
 Welcome to my Data Science and Artificial Intelligence BootCamp repository! This repository contains all my work during the bootcamp, including weekly topics, exercises, and projects, as well as my final Capstone Project. Below is a brief overview of the structure and contents of this repository.
 
